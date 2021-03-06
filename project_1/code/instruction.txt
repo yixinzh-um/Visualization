@@ -1,3 +1,3 @@
 ﻿Run the py code in streamlit
 
-streamlit run yixinzh.py
+streamlit run streamlit.py
