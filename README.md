@@ -7,7 +7,9 @@ The server directory has the server implementation
 The client directory has example clients and a web interface to modify the guesses during a running game
 
 visualization file worked:
+
 si649robogames > clients >streamlit.py
+
 report >
 
 (Python, Pandas, Altair, Streamlit)
