@@ -1,6 +1,8 @@
 # si649robogames
 **robot game visualization dashboard**
-group (of 5) project
+
+group project (of 5)
+
 The server directory has the server implementation
 The client directory has example clients and a web interface to modify the guesses during a running game
 
