@@ -9,8 +9,7 @@ si649robogames > clients >streamlit.py
 
 report >
 
-
-**Robot Game Visualization Dashboard**
+### Robot Game Visualization Dashboard
 
 group project (of 5)
 
