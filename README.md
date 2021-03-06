@@ -1,14 +1,28 @@
 # si649robogames
-public files for the robogames
-
+**robot game visualization dashboard**
+group (of 5) project
 The server directory has the server implementation
-
 The client directory has example clients and a web interface to modify the guesses during a running game
 
-
-
-vis file worked:
+visualization file worked:
 si649robogames > clients >streamlit.py
 report >
 
+(Python, Pandas, Altair, Streamlit)
+
+Robot Game Visualization Dashboard (Python, Pandas, Altair, Streamlit) Fall 2020
+
+●Selected features by visualizing the correlation coefficient robots’ attributes.
+
+●Passed the top three attributes to the network chart to be encoded in the color of nodes.
+
+●Created the blank for users to input the ID of robots, so it can be passed to the time series prediction chart.
+
+
+
+
+
 # project 1
+**Why Norway did well in Winter Olympics?**
+individual project
+(Python, Pandas, Altair, Streamlit)
