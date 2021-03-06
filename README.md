@@ -1,7 +1,4 @@
 # si649robogames
-**robot game visualization dashboard**
-
-group project (of 5)
 
 The server directory has the server implementation
 The client directory has example clients and a web interface to modify the guesses during a running game
@@ -12,9 +9,12 @@ si649robogames > clients >streamlit.py
 
 report >
 
-(Python, Pandas, Altair, Streamlit)
 
-Robot Game Visualization Dashboard (Python, Pandas, Altair, Streamlit) Fall 2020
+**Robot Game Visualization Dashboard**
+
+group project (of 5)
+
+(Python, Pandas, Altair, Streamlit) 
 
 ●Selected features by visualizing the correlation coefficient robots’ attributes.
 
