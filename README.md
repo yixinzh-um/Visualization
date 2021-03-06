@@ -24,5 +24,7 @@ Robot Game Visualization Dashboard (Python, Pandas, Altair, Streamlit) Fall 2020
 
 # project 1
 **Why Norway did well in Winter Olympics?**
+
 individual project
+
 (Python, Pandas, Altair, Streamlit)
