@@ -26,7 +26,7 @@ group project (of 5)
 
 
 # project 1
-**Why Norway did well in Winter Olympics?**
+### Why Norway did well in Winter Olympics?
 
 individual project
 
